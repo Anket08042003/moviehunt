@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "999980102152",
+    "project_id": "moviemania-9204c",
+    "storage_bucket": "moviemania-9204c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999980102152:android:e1851ff1144f113b4997bd",
+        "android_client_info": {
+          "package_name": "com.example.r08fullmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999980102152-0nruljpv1479mf81dnbm8ml0ogmfa5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-hjUwLJZp0py2ik0-YrZzliBE5UKIQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999980102152-0nruljpv1479mf81dnbm8ml0ogmfa5j0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999980102152-3j59tubngmng3ol1sdapgpl3cg4u2f8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.r08fullmovieapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
